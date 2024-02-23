@@ -1,0 +1,53 @@
+/* Add your global styles here if needed */
+
+.product-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .product-info {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1em;
+    color: #555;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+    color: #333;
+    margin-top: 15px;
+  }
+  
+  .buy-now-btn {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .buy-now-btn:hover {
+    background-color: #2980b9;
+  }
+  
